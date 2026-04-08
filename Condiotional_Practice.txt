@@ -15,22 +15,14 @@ Ask the user to enter their marks out of 100 and print their grade:
 40 to 59 → C
 Below 40 → Fail
 
-
 Q5 — Even or Odd
 Ask the user to enter a number. Print whether it is even or odd.
 (Hint: use the % operator)
 
 Q6 — Login System
-Store a username and password in your code. Ask the user to enter both. If both match, print "Login Successful" otherwise print "Wrong credentials."
+Store a username and password in your code. Ask the user to enter both. If both match, print "Login Successful"; otherwise, print "Wrong credentials."
 
-Q7 — Electricity Bill
-Ask the user to enter units of electricity used. Calculate the bill using these rates:
-
-Up to 100 units → Rs. 5 per unit
-101 to 300 units → Rs. 10 per unit
-Above 300 units → Rs. 15 per unit
-
-Q8 — Temperature Checker
+Q7 — Temperature Checker
 Ask the user to enter the temperature. Print:
 
 Above 40 → "Very Hot"
@@ -38,12 +30,11 @@ Above 40 → "Very Hot"
 10 to 24 → "Cold"
 Below 10 → "Very Cold"
 
-
-Q9 — Leap Year
+Q8 — Leap Year
 Ask the user to enter a year. Print whether it is a leap year or not.
 (Hint: A year is leap if it is divisible by 4)
 
-Q10 — Discount System
+Q9 — Discount System
 Ask the user to enter their total shopping bill. Apply discount:
 
 Above Rs. 5000 → 20% discount
@@ -52,14 +43,14 @@ Otherwise → No discount
 
 Print the final amount after discount.
 
-Q11 — Triangle Valid or Not
-Ask the user to enter three angles of a triangle. If they add up to 180, print "Valid Triangle" otherwise print "Invalid Triangle."
+Q10 — Triangle Valid or Not
+Ask the user to enter three angles of a triangle. If they add up to 180, print "Valid Triangle"; otherwise print "Invalid Triangle."
 
-Q12 — Weekday or Weekend
+Q11 — Weekday or Weekend
 Ask the user to enter a day number (1–7). Print whether it is a weekday or weekend.
 (1–5 weekday, 6–7 weekend)
 
-Q13 — BMI Calculator
+Q12 — BMI Calculator
 Ask the user to enter their weight (kg) and height (meters). Calculate BMI and print the result:
 
 Below 18.5 → "Underweight"
