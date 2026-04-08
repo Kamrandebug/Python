@@ -1,0 +1,14 @@
+Project 1: Multiplication Quiz Game
+Build a console-based multiplication quiz game that asks the user 5 multiplication questions one by one. The user must keep trying until they get the correct answer. Track the score and display it at the end.
+
+Project 2: Mini Admission Form
+Build a console-based admission form that collects three pieces of information from the user — age (must be between 18 and 30), height in meters (must be between 1.4 and 2.2), and student status (true/false). Each field must validate the input and keep prompting until a valid value is entered. Display a summary of the submitted details at the end.
+
+Project 3: Number Guessing Game
+Build a console-based game where the program picks a random number between 1 and 100. The user keeps guessing until they get it right. Give hints like "Too High" or "Too Low" after each wrong guess and display the total number of attempts at the end.
+
+Project 4: Simple ATM Machine
+Build a console-based ATM simulation with a fixed starting balance. The user can choose to check balance, deposit money, or withdraw money. Validate that withdrawals don't exceed the available balance and that all inputs are valid numbers.
+
+Project 5: Student Grade Calculator
+Build a console-based program that asks the user to enter marks for 5 subjects (each between 0 and 100). Validate each input, calculate the total and average, and display a grade (A, B, C, D, or F) based on the average at the end.
